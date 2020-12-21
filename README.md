@@ -1,2 +1,2 @@
 # Ticket_Classification
-Capstone project for AIML Great Learning
+In the IT sector, Incident management helps to avoid any impact to the business operation by resolving the problem on time. The main goal of the process is to provide a quick fix by assigning to the right group. Wrong assignments will make the process slow down. Around ~25% of Incidents are wrongly assigned to teams which compromises the quality of management. This makes the firm in need of an additional resource to manage these activities. To avoid these problems a powerful system is required to manage these activities of assigning the ticket to the right teams in a short span of time. This can help the firm to minimize the ticket resolving cycle time and ensure the quality of application.
